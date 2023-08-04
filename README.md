@@ -1,7 +1,7 @@
 # You Snooze, You Lose, News:
 [//]: <>
 
-YSYL News is a streamlined news browsing application, bringing you the headlines of the day as well as a repository of thousands of articles to search within in moments upon entering! Major news outlets as well as indepenedent journalists are featured.
+YSYL News is a streamlined news browsing application, bringing you the headlines of the day as well as a repository of thousands of articles to search within in moments upon entering! Major news outlets as well as independent journalists are featured.
 
 ## Preview of App:
 [//]: <>
