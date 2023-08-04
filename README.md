@@ -14,9 +14,11 @@ YSYL News is a streamlined news browsing application, bringing you the headlines
 [//]: <>
 
 ### Clone the Repository:
-- git clone https://github.com/sdmisra/news-challenge
+In your terminal / command line:
+- git clone git@github.com:sdmisra/news-challenge.git
 
 ### Navigate to the Project Directory to install dependencies:
+In your terminal / command line when in the directory:
 - npm install
 
 ## Context:
