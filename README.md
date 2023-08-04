@@ -1,39 +1,47 @@
-# create-svelte
+# HyperLoom:
+[//]: <>
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+## Preview of App:
+[//]: <>
+![Snooze Lose News](https://github.com/sdmisra/news-challenge/assets/117242156/f3300ff9-4c54-413d-be57-719bc465ce60)
 
-## Creating a project
+## Contributors:
+[//]: <>
+- Shane Misra: [GitHub](https://github.com/sdmisra) | [LinkedIn](https://www.linkedin.com/in/shanemisra/)
 
-If you're seeing this, you've probably already done this step. Congrats!
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Installation Instructions:
+[//]: <>
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+### Clone the Repository:
+- git clone https://github.com/sdmisra/news-challenge
 
-## Developing
+### Navigate to the Project Directory to install dependencies:
+- npm install
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Context:
+[//]: <>
 
-```bash
-npm run dev
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+## Technologies
+- Svelte
+- Svelte - Routing
+- Cypress
+  
 
-## Building
+## Learning Goals:
 
-To create a production version of your app:
 
-```bash
-npm run build
-```
+## Challenges & Wins:
 
-You can preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
-# news-challenge
+
+## Future Feature Ideas:
+[//]: <>
+
+
+## Testing Instructions:
+[//]: <>
+
+To run the test suite associated with the classes behind the scenes and how they interact: 
+Run 'npm run cypress' from the terminal while within the main directory of the application and select E2E Testing, and your chosen browser in the following window.
