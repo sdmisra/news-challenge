@@ -1,5 +1,7 @@
-# HyperLoom:
+# You Snooze, You Lose, News:
 [//]: <>
+
+YSYL News is a streamlined news browsing application, bringing you the headlines of the day as well as a repository of thousands of articles to search within in moments upon entering! Major news outlets as well as indepenedent journalists are featured.
 
 ## Preview of App:
 [//]: <>
@@ -8,8 +10,6 @@
 ## Contributors:
 [//]: <>
 - Shane Misra: [GitHub](https://github.com/sdmisra) | [LinkedIn](https://www.linkedin.com/in/shanemisra/)
-
-
 ## Installation Instructions:
 [//]: <>
 
@@ -30,14 +30,19 @@
   
 
 ## Learning Goals:
-
+- Meet short deadline to replicate take-home challenge workflow
+- Present final result and discuss successful and unsuccessful design choices with peers
+- Challenge myself to use a new JS framework (Svelte) to recreate the majority of concepts that I have applied with React
 
 ## Challenges & Wins:
-
-
+- Successfully implemented Svelte to render a multi page (routed) application
+- Followed Turing style guidelines with new language, demanding 'developer empathy' of myself
 
 ## Future Feature Ideas:
 [//]: <>
+- Fix rendering for single page view
+- Complete styling for presentation quality, rather than basic functionality and proof of concept
+- Finish testing suite to ensure standards have been followed for E2E concerns
 
 
 ## Testing Instructions:
