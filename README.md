@@ -22,6 +22,7 @@ YSYL News is a streamlined news browsing application, bringing you the headlines
 ## Context:
 [//]: <>
 
+This project was assigned as the final solo project at Turing, with a limited deadline to simulate take-home challenge timeframes that will occur during the upcoming job search for students. 
 
 ## Technologies
 - Svelte
